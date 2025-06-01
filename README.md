@@ -1,4 +1,4 @@
-Author : Thomas Vervisch
+Author : Monsieur Vervisch
 
 Soluceapp is an application design to adapt various services and situations.
 The final aim is to have an perfectly free integreted plateform adapted to any situation.
